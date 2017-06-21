@@ -1,0 +1,1 @@
+Today we used AJAX and localStorage to pull data from a "server" and use it to build the blog website.  Learned a lot about AJAX calls today.  I look forward to trying it out more with open APIs online.
