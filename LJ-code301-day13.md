@@ -1,0 +1,1 @@
+Today we worked on deploying a project with Heroku.  I had troubles at first getting Heroku to install on my Ubuntu laptop.  It needed to update Node to a newer version and it would not successfully update.  Another student found a link to troubleshoot this problem and there was a command linked in there that fixed my problem.  Learning that I like Mac OS better than Linux!
